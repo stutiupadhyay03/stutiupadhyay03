@@ -53,5 +53,3 @@ I build end-to-end AI systems — from multi-agent LLM applications and producti
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stutiupadhyay70@gmail.com)
 
 ---
-
-*Open to full-time roles in AI Engineering, Data Science, and ML Engineering across the US · F-1 OPT · Open to sponsorship*
