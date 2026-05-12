@@ -1,8 +1,11 @@
 # Hi, I'm Stuti 👋
 
-**AI Engineer & Data Scientist** based in the Washington DC / Baltimore area.
-
-I build end-to-end AI systems — from multi-agent LLM applications and production computer vision platforms to large-scale distributed data pipelines. Currently at **Ampcus Inc.** contributing to an ACL federal prize challenge AI health monitoring platform, and receiving hands-on training in **AWS Bedrock Strands SDK** and **AgentForce by Salesforce**.
+**AI Engineer & Data Scientist** based in the Washington DC / Northern Virginia area.
+I build end-to-end AI systems — from multi-agent LLM applications and production 
+computer vision platforms to large-scale distributed data pipelines. Currently at 
+**Ampcus Inc.** building production AI systems for enterprise and federal clients, 
+with hands-on training in **AWS Bedrock Strands SDK** and enterprise agentic AI 
+frameworks through major technology partnerships.
 
 ---
 
